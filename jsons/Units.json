@@ -12,7 +12,7 @@
       "upgradesTo": "Musketman",
       "replaces": "Swordsman",
       "uniqueTo": "Sparta",
-      "uniques": ["Never appears as a Barbarian unit", "Unlocked with [Honor]", "+[5]% Strength <when attacking>", "-[3]% Strength <when defending>"],
+      "uniques": ["Never appears as a Barbarian unit", "Unlocked with [Honor]", "[+5]% Strength <when attacking>", "[-3]% Strength <when defending>"],
       "requiredResource": "Iron",
 
       },
@@ -29,9 +29,8 @@
       "replaces": "Spearman",
       "requiredResource": "Bronze",
       "promotions": ["Phalanx"],
-      "uniqueTo": "Macedon",
-    
-      "uniques": ["Never appears as a Barbarian unit","[+10]% Strength for [All] units which have another [Millitary] unit in an adjacent tile", "[-33]% Strength <vs cities>"],
+      "uniqueTo": "Macedon",    
+      "uniques": ["Never appears as a Barbarian unit","[+10]% Strength bonus for [Macedonian] units within [1] tiles", "[-33]% Strength <vs cities>"],
      
       },
         {
