@@ -1,0 +1,279 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Agoge
+  rotate: false
+  xy: 412, 285
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Melon Dome
+  rotate: false
+  xy: 1689, 805
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Gas Deposit
+  rotate: false
+  xy: 1533, 593
+  size: 50, 96
+  orig: 50, 96
+  offset: 0, 0
+  index: -1
+LeaderIcons/weiird
+  rotate: false
+  xy: 4, 112
+  size: 400, 373
+  orig: 400, 373
+  offset: 0, 0
+  index: -1
+NationIcons/Assyria
+  rotate: false
+  xy: 412, 177
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Crete
+  rotate: false
+  xy: 1897, 905
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/GAY
+  rotate: false
+  xy: 1857, 757
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+NationIcons/Lydia
+  rotate: false
+  xy: 620, 385
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Macedon
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Pontus
+  rotate: false
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sparta
+  rotate: false
+  xy: 1677, 697
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Hellenism
+  rotate: false
+  xy: 629, 809
+  size: 220, 196
+  orig: 220, 196
+  offset: 0, 0
+  index: -1
+ReligionIcons/Kemetism
+  rotate: false
+  xy: 629, 493
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Paganism
+  rotate: false
+  xy: 1569, 697
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Bronze
+  rotate: false
+  xy: 520, 223
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Dead Sea
+  rotate: false
+  xy: 4, 493
+  size: 617, 512
+  orig: 617, 512
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Gas Deposit
+  rotate: false
+  xy: 1897, 843
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Labyrinth of the Minotaur
+  rotate: false
+  xy: 737, 539
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mount Olympus
+  rotate: false
+  xy: 620, 323
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Natural Gas
+  rotate: false
+  xy: 1461, 635
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+ResourceIcons/Natural Gas
+  rotate: false
+  xy: 1461, 635
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Xeric Shrubland
+  rotate: false
+  xy: 1785, 743
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Assyrian Warrior
+  rotate: false
+  xy: 412, 115
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Krypteia
+  rotate: false
+  xy: 484, 153
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Macedonian Phalanx
+  rotate: false
+  xy: 2005, 977
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/SickleSwordsman
+  rotate: false
+  xy: 328, 50
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spartan Phalanx
+  rotate: false
+  xy: 520, 187
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Assyrian Warrior
+  rotate: false
+  xy: 629, 601
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Cretan Archer
+  rotate: false
+  xy: 857, 805
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Krypteia
+  rotate: false
+  xy: 1065, 805
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Leukaspidai
+  rotate: false
+  xy: 1273, 805
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/MF
+  rotate: false
+  xy: 1461, 697
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Macedonian Phalanx
+  rotate: false
+  xy: 1481, 805
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Spartan Phalanx
+  rotate: false
+  xy: 1481, 805
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Persikoi Hippakontistai
+  rotate: false
+  xy: 837, 597
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Platono's Cluster
+  rotate: false
+  xy: 1045, 597
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/SickleSwordsman
+  rotate: false
+  xy: 1253, 597
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Adjacency I
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Phalanx
+  rotate: false
+  xy: 1591, 639
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
