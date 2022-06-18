@@ -205,7 +205,7 @@
       "neutralHello": "What can i do for you?",
       "hateHello": "You'll spend your last days in our prisons!",
       
-      "tradeRequest": "Please,let us do trade",
+      "tradeRequest": "Please, let us do trade",
       
        "outerColor": [97, 102, 97],
        "innerColor": [60, 64, 60], 
@@ -213,7 +213,7 @@
         "favoredReligion": "Tengriism",
 
        "uniqueName": "Emperor of the Black Sea", 
-       "uniques": ["[ [+10]% Gold, [+10]% Production] from [Coast] tiles [in capital]", "[+10]% [Production] [in all coastal cities]"],
+       "uniques": ["[+2 Production] from [Coast] tiles [in capital]", "[+10]% [Production] [in all coastal cities]"],
        "cities": ["Sinope","Amasya","Ordu","Trapezus","Samsun","Bafra","Tokat","Rize","Bathys","Nicopolis","Cytorus","Amastris","Carusus"],
 }
 ]

@@ -12,7 +12,7 @@
       "upgradesTo": "Musketman",
       "replaces": "Swordsman",
       "uniqueTo": "Sparta",
-      "uniques": ["Never appears as a Barbarian unit", "Unlocked with [Honor]", "[+5]% Strength <when attacking>", "[-3]% Strength <when defending>"],
+      "uniques": ["Never appears as a Barbarian unit", "Unlocked with [Honor]", "[+15]% Strength <when attacking>", "[-10]% Strength <when defending>"],
       "requiredResource": "Iron",
 
       },
@@ -74,7 +74,7 @@
       "range": 2,
       "movement": 2,
       "strength": 7,
-      "rangedStrength": 9
+      "rangedStrength": 9,
       "cost": 70,
       "obsoleteTech": "Construction",
       "upgradesTo": "Composite Bowman",
@@ -171,7 +171,7 @@
       "movement": 4,
       "strength": 4,
       "range": 2,
-      "rangedStrength": 8
+      "rangedStrength": 8,
       "cost": 70,
       "obsoleteTech": "Chivalry",
       "upgradesTo": "Knight",
@@ -191,9 +191,9 @@
       "obsoleteTech": "Gunpowder",
       "requiredResource": "Bronze",
       "upgradesTo": "Knight",
-      "uniques": ["[-33]% Strength <vs cities>"],
+      "uniques": ["[-33]% Strength <vs cities>"]
      
-      },
+      }
 
 
 

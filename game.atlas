@@ -20,7 +20,7 @@ BuildingIcons/Melon Dome
   index: -1
 ImprovementIcons/Gas Deposit
   rotate: false
-  xy: 1676, 73
+  xy: 1892, 219
   size: 50, 96
   orig: 50, 96
   offset: 0, 0
@@ -62,14 +62,14 @@ NationIcons/Macedon
   index: -1
 NationIcons/Pontus
   rotate: false
-  xy: 1568, 177
+  xy: 1676, 177
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Sparta
   rotate: false
-  xy: 1676, 177
+  xy: 1784, 177
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -90,70 +90,77 @@ ReligionIcons/Kemetism
   index: -1
 ReligionIcons/Paganism
   rotate: false
-  xy: 1460, 177
+  xy: 1568, 177
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+ResourceIcons/Bronze
+  rotate: false
+  xy: 1888, 323
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Bronze
   rotate: false
-  xy: 1244, 115
+  xy: 328, 50
   size: 64, 54
   orig: 64, 54
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Dead Sea
   rotate: false
-  xy: 328, 48
+  xy: 1316, 113
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Gas Deposit
   rotate: false
-  xy: 1784, 223
+  xy: 1388, 115
   size: 64, 54
   orig: 64, 54
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Labyrinth of the Minotaur
   rotate: false
-  xy: 1316, 115
+  xy: 1460, 115
   size: 64, 54
   orig: 64, 54
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mount Olympus
   rotate: false
-  xy: 1388, 115
-  size: 64, 54
-  orig: 64, 54
+  xy: 1460, 177
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Natural Gas
   rotate: false
-  xy: 1460, 115
+  xy: 1532, 115
   size: 64, 54
   orig: 64, 54
   offset: 0, 0
   index: -1
 ResourceIcons/Natural Gas
   rotate: false
-  xy: 1460, 115
+  xy: 1532, 115
   size: 64, 54
   orig: 64, 54
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Xeric Shrubland
   rotate: false
-  xy: 1604, 115
+  xy: 1676, 115
   size: 64, 54
   orig: 64, 54
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Assyrian Warrior
   rotate: false
-  xy: 1888, 323
+  xy: 1244, 115
   size: 64, 54
   orig: 64, 54
   offset: 0, 0
@@ -174,14 +181,14 @@ TileSets/FantasyHex/Units/Macedonian Phalanx
   index: -1
 TileSets/FantasyHex/Units/SickleSwordsman
   rotate: false
-  xy: 1532, 115
+  xy: 1604, 115
   size: 64, 54
   orig: 64, 54
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spartan Phalanx
   rotate: false
-  xy: 1888, 287
+  xy: 328, 14
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -258,7 +265,7 @@ UnitPromotionIcons/Adjacency I
   index: -1
 UnitPromotionIcons/Phalanx
   rotate: false
-  xy: 1734, 119
+  xy: 1748, 119
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
