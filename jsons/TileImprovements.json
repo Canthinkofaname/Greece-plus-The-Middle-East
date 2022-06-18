@@ -1,0 +1,11 @@
+[ 
+  {
+      "name": "Gas Deposit",
+		"food": 1,  
+     "culture": 1,  
+     	"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"turnsToBuild": 7,
+		"techRequired": "Biology",
+     "shortcutKey": "G",
+    },
+]
