@@ -1,0 +1,27 @@
+[
+   {
+      "name": "Natural Gas",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Coast","Desert"],
+      "food": 1,
+      "production": 1,
+      "science": 1,
+     	"improvement": "Gas Deposit",
+		"revealedBy": "Biology",
+      "improvementStats": {"production": 1},
+      "uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>", "Generated on every [18] tiles <in [Featureless] [Coast] tiles>",
+					"Generated on every [22] tiles <in [Featureless] [Plains] tiles>", "Generated on every [12] tiles <in [Featureless] [Desert] tiles>"],
+	},
+    {
+      "name": "Bronze",
+		"resourceType": "Strategic",
+		"terrainsCanBeFoundOn": ["Grassland","Plains"],
+      "production": 1,
+     	"improvement": "Mine",
+		"revealedBy": "Bronze Working",
+      "improvementStats": {"production": 1},
+      "uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>",
+					"Generated on every [22] tiles <in [Featureless] [Plains] tiles>"],
+	},
+
+]
