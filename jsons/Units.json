@@ -31,7 +31,7 @@
       "promotions": ["Phalanx"],
       "uniqueTo": "Macedon",
     
-      "uniques": ["Never appears as a Barbarian unit","[+10]% Strength for [All] units which have another [Millitary] unit in an adjacent tile", "[-33]% Strength <vs cities>"],
+      "uniques": ["Never appears as a Barbarian unit",""[+10]% Strength <when adjacent to a [Melee] unit>"", "[-33]% Strength <vs cities>"],
      
       },
         {
