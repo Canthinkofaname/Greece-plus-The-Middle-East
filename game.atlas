@@ -132,8 +132,8 @@ TileSets/FantasyHex/Tiles/Labyrinth of the Minotaur
 TileSets/FantasyHex/Tiles/Mount Olympus
   rotate: false
   xy: 1460, 177
-  size: 100, 100
-  orig: 100, 100
+  size: 64, 54
+  orig: 64, 54
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Natural Gas
