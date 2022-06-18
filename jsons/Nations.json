@@ -1,32 +1,31 @@
 [
-  
 
-{ 
+{
   //your mom
       "name": "Sparta",
       "leaderName": "Gorgo",
       "adjective": ["Spartans"],
-      "startBias": ["Grassland", "Plains","Coast"],
-      "preferredVictoryType": "Domination",   
-
+      "startBias": ["Grassland", "Plains", "Coast"],
+      "preferredVictoryType": "Domination",
+  
       "startIntroPart1": "Lead Sparta to greatness and glory as you spread your empire with your great Hoplites And Krypteias.",
-      "startIntroPart2": "Have no worries,as Ares shall support your empire and destroy your foes and enemies as your empire prospers and flourishes.",
+      "startIntroPart2": "Have no worries, as Ares shall support your empire and destroy your foes and enemies as your empire prospers and flourishes.",
 
       "declaringWar": "Ares shall help us in battle! Prepare yourselves!",
       "attacked": "You think you can beat us glorious Spartans? We have the support of Ares,The God of War!.",
-      "defeated": "Ares has abandoned us. Sparta is defeated....",
-      "introduction": "Welcome to Sparta,Home of Warmongerers and Honorable Hoplites. Want to come to a nearby city to duel?",
+      "defeated": "Ares has abandoned us. Sparta is defeated...",
+      "introduction": "Welcome to Sparta, Home of Warmongerers and Honorable Hoplites. Want to come to a nearby city to duel?",
      
       "neutralHello": "Are you prepared for suprise invasions?",
       "hateHello": "You will be destroyed.",
       
       "tradeRequest": "Would you like to trade?",
       
-       "outerColor": [242,66,17],		
-       "innerColor": [242, 205, 17], 
+       "outerColor": [242,66,17],
+       "innerColor": [242, 205, 17],
        "favoredReligion": "Paganism",
-       "uniqueName": "Queen of Sparta", 
-       "uniques": ["[Great General] is earned [10]% faster", "+[1] [Production] from [Barracks] <when at war> [in all cities]", "+[3] [Culture] from [Barracks] [in all cities]", "+[1] [Production],+[1] [Culture] <when at war> [in all cities]"],
+       "uniqueName": "Queen of Sparta",
+       "uniques": ["[Great General] is earned [10]% faster", "+[1] [Production] from [Barracks] <when at war> [in all cities]", "+[3] [Culture] from [Barracks] [in all cities]", "+[1] [Production], +[1] [Culture] <when at war> [in all cities]"],
        
        "cities": ["Sparta","Argos","Olympia","Megalopolis","Phigalia","Epidaurus","Stymphalos","Tegea","Thuria","Gorgos","Pharae","Aulon","Tyros"],
        
@@ -38,26 +37,26 @@
       "leaderName": "Alexander the Great",
       "adjective": ["Macedonians"],
       "startBias": ["Grassland", "Plains"],
-      "preferredVictoryType": "Domination",   
+      "preferredVictoryType": "Domination",
 
-      "startIntroPart1": "You have lead Great campaigns against your enemies and foes for the expansion and wealth of your empire with your overwhelming Phalanxes,Tactic,and quick thinking.",
-      "startIntroPart2": "You have been through many struggles,but this struggle will test the true strength,loyalty,and glory of your army and empire. Will you win it,or will you just die,laying in your death bed?.",
+      "startIntroPart1": "You have lead Great campaigns against your enemies and foes for the expansion and wealth of your empire with your overwhelming Phalanxes, Tactic and quick thinking.",
+      "startIntroPart2": "You have been through many struggles, but this struggle will test the true strength, loyalty and glory of your army and empire. Will you win it, or will you just die, laying in your death bed?.",
 
       "declaringWar": "It seems it is time to launch another campaign.",
-      "attacked": "Your launch a war against me,Alexander the Great,The leader who has never lost a battle? This war will go as quickly as your realization this war was a horrible,horrible mistake. .",
+      "attacked": "Your launch a war against me, Alexander the Great, The leader who has never lost a battle? This war will go as quickly as your realization this war was a horrible, horrible mistake.",
       "defeated": "I guess this is the end of my campaign. Take care of my citizens for me.",
-      "introduction": "Why hello! Im sure you heard of me? The Undefeated Champion? The City-sate Destroyer? And most importantly,Alexander the Great.",
+      "introduction": "Why hello! Im sure you heard of me? The Undefeated Champion? The City-sate Destroyer? And most importantly, Alexander the Great.",
      
       "neutralHello": "Hmm?",
       "hateHello": "Are you regretting your decisions yet?",
       
       "tradeRequest": "Come and trade with the Greatest leader in the world",
       
-       "outerColor": [84, 84, 99],		
-       "innerColor": [191, 204, 45], 
+       "outerColor": [84, 84, 99],
+       "innerColor": [191, 204, 45],
        "favoredReligion": "Hellenism",
        "uniqueName": "Short Life of Glory", 
-       "uniques": ["Great General provides double combat bonus","Receive free [Great General] when you discover [Bronze Working]", "[Great General] is earned [5]% faster","+[10]% [Production],+[10]% [Food] from [Barracks] [in captial]","[+1] Movement <for [Great General] units>"],
+       "uniques": ["Great General provides double combat bonus", "Receive free [Great General] when you discover [Bronze Working]", "[Great General] is earned [5]% faster", "+[10]% [Production], +[10]% [Food] from [Barracks] [in captial]", "[+1] Movement <for [Great General] units>"],
        "cities": ["Pella","Dion","Pydna","Methoni","Olynthus","Dodona","Aegae","Dicaea","Larissa","Philippi","Neapolis","Amphipolis","Scione"],
        },
 
@@ -66,14 +65,14 @@
       "leaderName": "Minos",
       "adjective": ["Cretans"],
       "startBias": ["Coast"],
-      "preferredVictoryType": "Diplomatic",   
+      "preferredVictoryType": "Diplomatic",
 
       "startIntroPart1": "Son of Zeus,Lead Crete to the mastery of trade and war with your great and powerful Platno's Clusters and Cretan Archers",
       "startIntroPart2": "Destroy anybody who dares to stand in your path of taking whats your and Honor Zeus's name.",
 
       "declaringWar": "You scoundrels shall pay for your actions!",
-      "attacked": "Ha! You actually think you can beat the King of Europe! Come try for yourself..",
-      "defeated": "It seems i should be joining Hades in the underworld.....",
+      "attacked": "Ha! You actually think you can beat the King of Europe! Come try it yourself",
+      "defeated": "It seems i should be joining Hades in the underworld...",
       "introduction": "Hello stranger. Im sure you've heard of me,The Son of Zeus,Ruler of Crete,King of the Gods,And the embodiment of all of Europa! Would you like to come by my island for a visit?",
      
       "neutralHello": "What does thou need with the King of Gods?",
@@ -81,11 +80,11 @@
       
       "tradeRequest": "Be grateful for having the oppurtunity to trade with the Son of Zeus.",
       
-       "outerColor": [50, 127, 168],		
+       "outerColor": [50, 127, 168],
        "innerColor": [27, 203, 209], 
        "favoredReligion": "Hellenism",
        "uniqueName": "King of Europa", 
-       "uniques": ["[+10]% [Gold],[+10]% [Culture] from [Water] tiles [in capital]", "Enables embarkation for land units <starting from the [Ancient era]>"],
+       "uniques": ["+[10]% [Gold],+[10]% [Culture] from [Water] tiles [in capital]", "Enables embarkation for land units <starting from the [Ancient era]>"],
        
        "cities": ["Chania","Chryssi","Heraklion","Nikolaos","Plakias","Sitia","Paleochorria","Tsoutsouros","Timpaki","Agios","Zakros","Chora Sfakion","Kissamos"],
        
@@ -113,18 +112,19 @@
       
       "tradeRequest": "How about you come make a trade with our vassels?",
       
-       "outerColor": [0, 0, 0]  		
+       "outerColor": [0, 0, 0],
        "innerColor": [209, 45, 27], 
        "favoredReligion": "Islam",
        "uniqueName": "Civilized Nomads", 
-       "uniques": ["[+10]% [Production],[+5]% [Culture] when producing [Mounted] unis [in this citiy]"],
+       "uniques": ["+[10]% [Production],+[5]% [Culture] when producing [Mounted] unis [in this citiy]"],
        
        "cities": ["Samarkand","Isfahand","Shiraz","Qazvin","Zaranj","Tashkent","Bukhara","Merv","Khujand","Herat","Kabul","Ghazni","Qandahar"],
        
 
 
        },   
-        { 
+
+  { 
          "name": "Lydia",
       "leaderName": "Gyges",
       "adjective": ["Lydians"],
@@ -144,20 +144,21 @@
       
       "tradeRequest": "Please,let us do trade",
       
-       "outerColor": [227, 204, 226]  		
+       "outerColor": [227, 204, 226],
        "innerColor": [181, 53, 204], 
       
         "favoredReligion": "Tengriism",
 
        "uniqueName": "Gods of Gold", 
-       "uniques": ["[+10]% [Gold] [in all coastal cities]", "[+20]% [Gold] [in capital]", "[-30]% [Gold] [in all cities] <when at war>"],
+       "uniques": ["+[10]% [Gold] [in all coastal cities]", "+[20]% [Gold] [in capital]", "[-30]% [Gold] [in all cities] <when at war>"],
        
        "cities": ["Sardis","Troy","Hallicarnassus","Miletus","Ephesus","Smyma","Cyme","Phocaea","Apasa","Ialysus","Kos","Knidos","Eythrai"],
        
 
 
        },   
-    {
+
+  {
     "name": "Assyria",
       "leaderName": "Sennacherib",
           "adjective": ["Assyrians"],
@@ -183,11 +184,12 @@
         "favoredReligion": "Islam",
 
        "uniqueName": "The Assyrian War Machine", 
-       "uniques": ["[+10]% [Production] from [Barracks] [in capital]", "[+10]% [Production],[-30]% [Gold] [in all cities] <when at war>","[+30]% [Production] when constructing [Melee] units [in all cities]"],
+       "uniques": ["+[10]% [Production] from [Barracks] [in capital]", "+[10]% [Production],-[30]% [Gold] [in all cities] <when at war>","+[30]% [Production] when constructing [Melee] units [in all cities]"],
 
        "cities": ["Ninevah","Nimrud","Ashur","Dur-Sharrukin","Haran","Cahlah","Arbela","Arrapakha","Opis","Gozan","Sippar","Til Barship","Samal"],       
 },
- {
+
+  {
     "name": "Pontus",
       "leaderName": "Mithridates VI",
           "adjective": ["Pontians"],
@@ -213,15 +215,9 @@
         "favoredReligion": "Tengriism",
 
        "uniqueName": "Emperor of the Black Sea", 
-       "uniques": ["[+10]% [Production] from [Coast] tiles [in capital]","[+10]% [Production] [in all coastal cities]"],
+       "uniques": ["+[10]% [Production] from [Coast] tiles [in capital]","+[10]% [Production] [in all coastal cities]"],
 
        "cities": ["Sinope","Amasya","Ordu","Trapezus","Samsun","Bafra","Tokat","Rize","Bathys","Nicopolis","Cytorus","Amastris","Carusus"],       
 },
-
-
-
-
-
-
 
 ]
