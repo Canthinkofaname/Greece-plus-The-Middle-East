@@ -131,7 +131,7 @@ TileSets/FantasyHex/Tiles/Labyrinth of the Minotaur
   index: -1
 TileSets/FantasyHex/Tiles/Mount Olympus
   rotate: false
-  xy: 1480, 197
+  xy: 1482, 200
   size: 64, 54
   orig: 64, 54
   offset: 0, 0
