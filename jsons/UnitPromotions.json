@@ -9,7 +9,7 @@
 "name": "Adjacency I",	
 "prerequisites": ["Phalanx"],
 "unitTypes": ["Sword"],
-"uniques": ["[+50]% to Flank Attack bonuses"]
+"uniques": ["[+100]% to Flank Attack bonuses"]
 },
 
 {		
