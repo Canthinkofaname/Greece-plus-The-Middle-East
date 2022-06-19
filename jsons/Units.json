@@ -30,7 +30,7 @@
       "requiredResource": "Bronze",
       "promotions": ["Phalanx"],
       "uniqueTo": "Macedon",    
-      "uniques": ["Never appears as a Barbarian unit","[+10]% Strength bonus for [Macedonian] units within [1] tiles", "[-33]% Strength <vs cities>"],
+      "uniques": ["Never appears as a Barbarian unit", "[-33]% Strength <vs cities>"],
      
       },
         {
@@ -129,7 +129,7 @@
       "upgradesTo": "SickleSwordsman",
       "replaces": "Warrior",
       "uniqueTo": "Assyria",
-      "uniques": ["[+2]% Strength <vs [Melee] units>", "[-33]% Strength <vs cities>"],
+      "uniques": ["[+20]% Strength <vs [Melee] units>", "[-33]% Strength <vs cities>"],
      
       },
    {
@@ -166,7 +166,7 @@
    {
      
        "name": "Persikoi Hippakontistai",
-      "unitType": "Ranged",
+      "unitType": "Mounted",
       "requiredTech": "Horseback Riding",
       "movement": 4,
       "strength": 4,
@@ -190,11 +190,8 @@
       "cost": 50,
       "obsoleteTech": "Gunpowder",
       "requiredResource": "Bronze",
-      "upgradesTo": "Knight",
+      "upgradesTo": "Swordsman",
       "uniques": ["[-33]% Strength <vs cities>"]
      
       }
-
-
-
 ]
