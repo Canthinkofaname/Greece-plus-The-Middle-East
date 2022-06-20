@@ -56,7 +56,7 @@
        "name": "Platono's Cluster",
       "unitType": "Melee Water",
       "requiredTech": "Sailing",
-      "movement": 8,
+      "movement": 6,
       "strength": 13,
       "cost": 60,
       "obsoleteTech": "Astronomy",
