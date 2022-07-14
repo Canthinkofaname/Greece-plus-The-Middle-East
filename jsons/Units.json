@@ -13,7 +13,7 @@
       "replaces": "Swordsman",
       "uniqueTo": "Sparta",
       "uniques": ["Never appears as a Barbarian unit", "Only available <after adopting [Honor]>", "[+5]% Strength <when attacking>", "[-3]% Strength <when defending>"],
-      "requiredResource": "Iron",
+      "requiredResource": "Iron"
 
       },
       {
@@ -31,7 +31,7 @@
       "promotions": ["Phalanx"],
       "uniqueTo": "Macedon",
     
-      "uniques": ["Never appears as a Barbarian unit","[+10]% Strength <when adjacent to a [Melee] unit>", "[-33]% Strength <vs cities>"],
+      "uniques": ["Never appears as a Barbarian unit","[+10]% Strength <when adjacent to a [Melee] unit>", "[-33]% Strength <vs cities>"]
      
       },
         {
@@ -48,7 +48,7 @@
       "requiredResource": "Bronze",
       "uniqueTo": "Sparta",
       "promotions": ["Phalanx"],
-      "uniques": ["Never appears as a Barbarian unit", "[-10]% Strength <vs [Melee] units>","[+20]% Strength <vs [Mounted] units>", "[+20]% Strength <vs [Ranged] units> <when defending>"],
+      "uniques": ["Never appears as a Barbarian unit", "[-10]% Strength <vs [Melee] units>","[+20]% Strength <vs [Mounted] units>", "[+20]% Strength <vs [Ranged] units> <when defending>"]
      
       },
       {
@@ -64,7 +64,7 @@
       "replaces": "Trireme",
       "uniqueTo": "Crete",
         "promotions": ["Boarding Party I"],
-      "uniques": ["Never appears as a Barbarian unit", "[+5]% Strength <vs [Water] units>", "May capture killed [Water] units"],
+      "uniques": ["Never appears as a Barbarian unit", "[+5]% Strength <vs [Water] units>", "May capture killed [Water] units"]
 
       },
        {
@@ -81,7 +81,7 @@
       "upgradesTo": "Composite Bowman",
       "replaces": "Archer",
       "uniqueTo": "Crete",
-      "uniques": ["Never appears as a Barbarian unit", "[+20]% Strength <vs [Melee] units> <when defending>", "[+10]% Strength <vs [Ranged] units>"],
+      "uniques": ["Never appears as a Barbarian unit", "[+20]% Strength <vs [Melee] units> <when defending>", "[+10]% Strength <vs [Ranged] units>"]
 
       },
       {
@@ -98,7 +98,7 @@
       "replaces": "Knight",
       "requiredResource": "Horses",
       "uniqueTo": "Timurids",
-      "uniques": ["[+10]% Strength <vs [Melee] units>","[+10]% Strength <vs [Mounted] units>", "[-20]% Strength <vs [Ranged] units> <when defending>", "[-33]% Strength <vs cities>", "Can move after attacking", "No defensive terrain bonus"],
+      "uniques": ["[+10]% Strength <vs [Melee] units>","[+10]% Strength <vs [Mounted] units>", "[-20]% Strength <vs [Ranged] units> <when defending>", "[-33]% Strength <vs cities>", "Can move after attacking", "No defensive terrain bonus"]
      
       },
       {
@@ -115,8 +115,8 @@
       "replaces": "Swordsman",
       "requiredResource": "Bronze",
       "uniqueTo": "Assyria",
-      "uniques": ["[+5]% Strength <vs [Melee] units>", "[-10]% Strength <vs [Mounted] units>", "[-20]% Strength <vs [Ranged] units> <when defending>", "[-33]% Strength <vs cities>"],
-     
+      "uniques": ["[+5]% Strength <vs [Melee] units>", "[-10]% Strength <vs [Mounted] units>", "[-20]% Strength <vs [Ranged] units> <when defending>", "[-33]% Strength <vs cities>"]
+
       },
       {
      
@@ -130,8 +130,8 @@
       "upgradesTo": "SickleSwordsman",
       "replaces": "Warrior",
       "uniqueTo": "Assyria",
-      "uniques": ["[+2]% Strength <vs [Melee] units>", "[-33]% Strength <vs cities>"],
-     
+      "uniques": ["[+2]% Strength <vs [Melee] units>", "[-33]% Strength <vs cities>"]
+
       },
    {
      
@@ -145,8 +145,8 @@
       "upgradesTo": "Leukaspidai",
       "replaces": "Warrior",
       "uniqueTo": "Pontus",
-      "uniques": ["[-33]% Strength <vs cities>"],
-     
+      "uniques": ["[-33]% Strength <vs cities>"]
+
       },
    {
      
@@ -161,8 +161,8 @@
       "replaces": "Spearman",
       "uniqueTo": "Pontus",
       "requiredResource": "Bronze",
-      "uniques": ["[-33]% Strength <vs cities>","[+50]% Strength <vs [Mounted] units>"],
-     
+      "uniques": ["[-33]% Strength <vs cities>","[+50]% Strength <vs [Mounted] units>"]
+
       },
    {
      
@@ -178,8 +178,8 @@
       "upgradesTo": "Knight",
       "replaces": "Chariot Archer",
       "uniqueTo": "Pontus",
-      "uniques": ["[-33]% Strength <vs cities>","[+50]% Strength <vs [Mounted] units>"],
-     
+      "uniques": ["[-33]% Strength <vs cities>","[+50]% Strength <vs [Mounted] units>"]
+
       },
           {
      
