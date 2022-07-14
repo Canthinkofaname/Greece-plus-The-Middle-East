@@ -1,16 +1,8 @@
-
 game.png
 size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Agoge
-  rotate: false
-  xy: 640, 285
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
 BuildingIcons/Melon Dome
   rotate: false
   xy: 412, 81
@@ -63,13 +55,6 @@ NationIcons/Macedon
 NationIcons/Pontus
   rotate: false
   xy: 1676, 177
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Sparta
-  rotate: false
-  xy: 1784, 177
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -132,9 +117,9 @@ TileSets/FantasyHex/Tiles/Labyrinth of the Minotaur
   index: -1
 TileSets/FantasyHex/Tiles/Mount Olympus
   rotate: false
-  xy: 1460, 177
-  size: 100, 100
-  orig: 100, 100
+  xy: 1482, 202
+  size: 64, 54
+  orig: 64, 54
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Natural Gas

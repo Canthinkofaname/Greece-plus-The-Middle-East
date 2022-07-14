@@ -4,7 +4,7 @@
      "type": "NaturalWonder",
      "faith": 7,
      "happiness": 2,
-    "occursOn": ["Plains","Grassland"],
+    "occursOn": ["Grassland"],
    "uniques": ["Must be adjacent to [0] [Coast] tiles",			
      "Must be adjacent to [0] [Marsh] tiles",			
      "Must be adjacent to [0] [Desert] tiles",			

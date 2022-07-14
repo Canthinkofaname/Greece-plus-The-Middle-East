@@ -12,7 +12,7 @@
       "upgradesTo": "Musketman",
       "replaces": "Swordsman",
       "uniqueTo": "Sparta",
-      "uniques": ["Never appears as a Barbarian unit", "Unlocked with [Honor]", "[+15]% Strength <when attacking>", "[-10]% Strength <when defending>"],
+      "uniques": ["Never appears as a Barbarian unit", "Only available <after adopting [Honor]>", "[+5]% Strength <when attacking>", "[-3]% Strength <when defending>"],
       "requiredResource": "Iron",
 
       },
@@ -29,8 +29,9 @@
       "replaces": "Spearman",
       "requiredResource": "Bronze",
       "promotions": ["Phalanx"],
-      "uniqueTo": "Macedon",    
-      "uniques": ["Never appears as a Barbarian unit","[+10]% Strength bonus for [Macedonian] units within [1] tiles", "[-33]% Strength <vs cities>"],
+      "uniqueTo": "Macedon",
+    
+      "uniques": ["Never appears as a Barbarian unit","[+10]% Strength <when adjacent to a [Melee] unit>", "[-33]% Strength <vs cities>"],
      
       },
         {
@@ -55,7 +56,7 @@
        "name": "Platono's Cluster",
       "unitType": "Melee Water",
       "requiredTech": "Sailing",
-      "movement": 8,
+      "movement": 6,
       "strength": 13,
       "cost": 60,
       "obsoleteTech": "Astronomy",
