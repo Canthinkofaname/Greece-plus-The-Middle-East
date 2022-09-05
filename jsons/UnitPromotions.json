@@ -1,22 +1,32 @@
 [
 
 {		
-"name": "Phalanx",	
-"uniques": ["Access to special promotions"]
-},
 
-{
+
+"name": "Phalanx",	
+"uniques": ["[+2]% Strength "],
+
+
+},
+{		
+
+
 "name": "Adjacency I",	
 "prerequisites": ["Phalanx"],
 "unitTypes": ["Sword"],
-"uniques": ["[+100]% to Flank Attack bonuses"]
-},
+"uniques": ["[+10]% Strength bonus for [Sword] units within [1] tiles"],
 
+
+},
 {		
-"name": "Adjacency II",
+
+
+"name": "Adjacency II",	
 "prerequisites": ["Adjacency I"],
 "unitTypes": ["Sword"],
-"uniques": ["[+250]% to Flank Attack bonuses"]
-}
+"uniques": ["[+10]% Strength bonus for [Sword] units within [1] tiles"],
+
+
+},
 
 ]
