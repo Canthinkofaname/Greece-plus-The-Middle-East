@@ -125,7 +125,7 @@
       "requiredTech": "Agriculture",
       "movement": 2,
       "strength": 10,
-      "cost": 50,
+      "cost": 70,
       "obsoleteTech": "Iron Working",
       "upgradesTo": "SickleSwordsman",
       "replaces": "Warrior",
