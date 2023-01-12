@@ -58,7 +58,7 @@
       "requiredTech": "Sailing",
       "movement": 6,
       "strength": 13,
-      "cost": 60,
+      "cost": 120,
       "obsoleteTech": "Astronomy",
       "upgradesTo": "Caravel",
       "replaces": "Trireme",
