@@ -26,7 +26,7 @@
        "innerColor": [242, 205, 17], 
        "favoredReligion": "Paganism",
        "uniqueName": "Queen of Sparta", 
-       "uniques": ["[Great General] is earned [10]% faster", "+[1] [Production] from [Barracks] <when at war> [in all cities]", "+[3] [Culture] from [Barracks] [in all cities]", "+[1] [Production],+[1] [Culture] <when at war> [in all cities]"],
+       "uniques": ["[Great General] is earned [10]% faster", "+[1] [Production] from [Barracks] [in all cities] <when at war>", "+[3] [Culture] from [Barracks] [in all cities]", "+[1] [Production],+[1] [Culture] [in all cities] <when at war>"],
        
        "cities": ["Sparta","Argos","Olympia","Megalopolis","Phigalia","Epidaurus","Stymphalos","Tegea","Thuria","Gorgos","Pharae","Aulon","Tyros"],
        
