@@ -8,7 +8,7 @@
     "maintenance": 1,
     "happiness": 1,	
     "culture": 1,
-    "uniques": ["New [Millitary] units start with [15] Experience [in this city]", "Destroyed when the city is captured",]
+    "uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured",]
                      
 
   },

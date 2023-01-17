@@ -12,7 +12,7 @@
       "upgradesTo": "Musketman",
       "replaces": "Swordsman",
       "uniqueTo": "Sparta",
-      "uniques": ["Never appears as a Barbarian unit", "Only available <after adopting [Honor]>", "[+5]% Strength <when attacking>", "[-3]% Strength <when defending>"],
+      "uniques": ["Never appears as a Barbarian unit", "Only available <after adopting [Honor]>", "[+15]% Strength <when attacking>", "[-13]% Strength <when defending>"],
       "requiredResource": "Iron",
 
       },
@@ -64,7 +64,7 @@
       "replaces": "Trireme",
       "uniqueTo": "Crete",
         "promotions": ["Boarding Party I"],
-      "uniques": ["Never appears as a Barbarian unit", "[+5]% Strength <vs [Water] units>", "May capture killed [Water] units"],
+      "uniques": ["Never appears as a Barbarian unit", "[+15]% Strength <vs [Water] units>", "May capture killed [Water] units"],
 
       },
        {
@@ -90,15 +90,15 @@
       "unitType": "Mounted",
       "requiredTech": "Chivalry",
       "movement": 4,
-      "strength": 25,
+      "strength": 22,
       "cost": 170,
-      "obsoleteTech": "Civil Service",
+      "obsoleteTech": "Military Science",
       "upgradesTo": "Cavalry",
       "upgradesFrom": "Horseman",
       "replaces": "Knight",
       "requiredResource": "Horses",
       "uniqueTo": "Timurids",
-      "uniques": ["[+10]% Strength <vs [Melee] units>","[+10]% Strength <vs [Mounted] units>", "[-20]% Strength <vs [Ranged] units> <when defending>", "[-33]% Strength <vs cities>", "Can move after attacking", "No defensive terrain bonus"],
+      "uniques": ["[+10]% Strength <vs [Melee] units>", "[-20]% Strength <vs [Ranged] units>", "[-33]% Strength <vs cities>", "Can move after attacking", "No defensive terrain bonus"],
      
       },
       {
@@ -115,7 +115,7 @@
       "replaces": "Swordsman",
       "requiredResource": "Bronze",
       "uniqueTo": "Assyria",
-      "uniques": ["[+5]% Strength <vs [Melee] units>", "[-10]% Strength <vs [Mounted] units>", "[+20]% Strength <vs [Ranged] units> <when defending>", "[-33]% Strength <vs cities>"],
+      "uniques": ["[+15]% Strength <vs [Melee] units>", "[-10]% Strength <vs [Mounted] units>", "[+20]% Strength <vs [Ranged] units> <when defending>", "[-33]% Strength <vs cities>"],
      
       },
       {
@@ -130,7 +130,7 @@
       "upgradesTo": "SickleSwordsman",
       "replaces": "Warrior",
       "uniqueTo": "Assyria",
-      "uniques": ["[+2]% Strength <vs [Melee] units>", "[-33]% Strength <vs cities>"],
+      "uniques": ["[+20]% Strength <vs [Melee] units>", "[-33]% Strength <vs cities>"],
      
       },
    {
@@ -156,8 +156,8 @@
       "movement": 2,
       "strength": 16,
       "cost": 70,
-      "obsoleteTech": "Civil Service",
-      "upgradesTo": "Swordsman",
+      "obsoleteTech": "Steel",
+      "upgradesTo": "Longswordsman",
       "replaces": "Spearman",
       "uniqueTo": "Pontus",
       "requiredResource": "Bronze",
@@ -189,9 +189,9 @@
       "movement": 2,
       "strength": 10,
       "cost": 50,
-      "obsoleteTech": "Gunpowder",
+      "obsoleteTech": "Iron Working",
       "requiredResource": "Bronze",
-      "upgradesTo": "Knight",
+      "upgradesTo": "Swordsman",
       "uniques": ["[-33]% Strength <vs cities>"],
      
       },
