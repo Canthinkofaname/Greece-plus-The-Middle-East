@@ -136,13 +136,6 @@ size: 94, 94
 orig: 100, 100
 offset: 0, 0 
 index: -1
-NationIcons/Assyria
-rotate: false 
-xy: 466, 5
-size: 100, 94
-orig: 100, 100
-offset: 0, 0 
-index: -1
 NationIcons/Lydia
 rotate: false 
 xy: 1, 2149
