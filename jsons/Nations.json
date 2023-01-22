@@ -6,7 +6,7 @@
       "name": "Sparta",
       "leaderName": "Gorgo",
       "adjective": ["Spartans"],
-      "startBias": ["Grassland", "Plains","Coast"],
+      "startBias": ["Coast"],
       "preferredVictoryType": "Domination",   
 
       "startIntroPart1": "Lead Sparta to greatness and glory as you spread your empire with your great Hoplites And Krypteias.",
@@ -37,7 +37,7 @@
       "name": "Macedon",
       "leaderName": "Alexander the Great",
       "adjective": ["Macedonians"],
-      "startBias": ["Grassland", "Plains"],
+      "startBias": ["Hills"],
       "preferredVictoryType": "Domination",   
 
       "startIntroPart1": "You have lead Great campaigns against your enemies and foes for the expansion and wealth of your empire with your overwhelming Phalanxes,Tactics,and quick thinking.",
@@ -128,7 +128,7 @@
          "name": "Lydia",
       "leaderName": "Gyges",
       "adjective": ["Lydians"],
-      "startBias": ["Plains", "Grassland"],
+      "startBias": ["Plains"],
       "preferredVictoryType": "Cultural",   
 
       "startIntroPart1": "Come, Gyges, and share your unique culture with the world",
@@ -161,7 +161,7 @@
     "name": "Assyria",
       "leaderName": "Sennacherib",
           "adjective": ["Assyrians"],
-      "startBias": ["Plains", "Grassland"],
+      "startBias": ["Plains"],
          "preferredVictoryType": "Domination",   
 
               "startIntroPart1": "Siege after siege, You've come far, King Sennacherib. Your chariots, and your Sickleswordsmen will march and conquer anybody who dares to defy your power.",
@@ -191,7 +191,7 @@
     "name": "Pontus",
       "leaderName": "Mithridates VI",
           "adjective": ["Pontians"],
-      "startBias": ["Plains", "Grassland", "Coast"],
+      "startBias": ["Coast"],
          "preferredVictoryType": "Domination",   
 
               "startIntroPart1": "Hail,Mithridates VI of Pontus, and show your atonishing millitaristic bravery and unique culture with the world",
@@ -218,7 +218,37 @@
 
        "cities": ["Sinope","Amasya","Ordu","Trapezus","Samsun","Bafra","Tokat","Rize","Bathys","Nicopolis","Cytorus","Amastris","Carusus"],       
 },
+ {
+    "name": "Ptolemaic Egypt",
+      "leaderName": "Cleopatra VII",
+          "adjective": ["Ptolemaics"],
+      "startBias": ["Coast"],
+         "preferredVictoryType": "Domination",   
 
+              "startIntroPart1": "Hail,Mithridates VI of Pontus, and show your atonishing millitaristic bravery and unique culture with the world",
+           "startIntroPart2": "Rule the Black sea and Turkey with your Leukaspidai and Pantodapoi and ensure Pontus's Safety once and for all",
+
+           "declaringWar": "You are a threat to our civlization! You have to die!",
+      "attacked": "Ha! Good luck destroying the Black Sea Civilization",
+      "defeated": "Those ratched romans helped you didnt they!",
+      "introduction": "Hello! Come visit our famous coasts,we invite you to drink some of our fine wine!",
+     
+      "neutralHello": "What can i do for you?",
+      "hateHello": "You'll spend your last days in our prisons!",
+      
+      "tradeRequest": "Please,let us do trade",
+      
+       "outerColor": [97, 102, 97]  		
+       "innerColor": [60, 64, 60], 
+      
+        "favoredReligion": "Tengriism",
+
+       "uniqueName": "Emperor of the Black Sea", 
+       "uniques": ["[+2 Production] from [Coastal] tiles [in all cities]", 
+       "[+10]% [Production] [in all coastal cities]"],
+
+       "cities": ["Sinope","Amasya","Ordu","Trapezus","Samsun","Bafra","Tokat","Rize","Bathys","Nicopolis","Cytorus","Amastris","Carusus"],       
+},
 
 
 
